@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">The Bill Calculator</string>
+    <string name="amount">Amount</string>
+    <string name="num">Num of Pax</string>
+    <string name="gst">GST</string>
+    <string name="svs">NO SVS</string>
+    <string name="cash">Cash</string>
+    <string name="paynow">PayNow</string>
+    <string name="disc">Discount (%)</string>
+    <string name="total">Total Bill: </string>
+    <string name="each">Each Pays: </string>
+    <string name="split">SPLIT</string>
+    <string name="reset">RESET</string>
+    <string name="svsoff">Service Charge</string>
+    <string name="svson">Service Charge Added</string>
+    <string name="gstoff">GST</string>
+    <string name="gston">GST Added</string>
+
+</resources>
